@@ -828,7 +828,7 @@
   letter-spacing: 1px;
   font-weight: 600;
   background-image: none;
-  margin: 59px auto 0;
+  margin: 63px auto 0 60px;
   padding: 19px 66px 20px 64px;
 }
 
@@ -897,7 +897,7 @@
   font-weight: 600;
   background-image: none;
   border-style: none;
-  margin: 59px auto 0;
+  margin: 63px auto 0 60px;
   padding: 19px 66px 20px 64px;
 }
 
@@ -960,7 +960,7 @@
   letter-spacing: 1px;
   font-weight: 600;
   background-image: none;
-  margin: 59px auto 0;
+  margin: 63px auto 0 60px;
   padding: 19px 66px 20px 64px;
 }
 
@@ -998,6 +998,10 @@
     height: auto;
   }
 
+  .u-section-5 .u-btn-1 {
+    margin-left: 0;
+  }
+
   .u-section-5 .u-group-3 {
     margin-top: 1px;
     height: auto;
@@ -1008,6 +1012,10 @@
     height: auto;
   }
 
+  .u-section-5 .u-btn-2 {
+    margin-left: 0;
+  }
+
   .u-section-5 .u-group-5 {
     margin-top: 1px;
     height: auto;
@@ -1016,6 +1024,10 @@
   .u-section-5 .u-group-6 {
     margin-top: -5px;
     height: auto;
+  }
+
+  .u-section-5 .u-btn-3 {
+    margin-left: 0;
   }
 }
 
